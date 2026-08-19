@@ -37,14 +37,15 @@
                        
    
    <mark>𝑨𝑵𝑫 𝑴𝑶𝑹𝑬..🌿🐾</mark>
+   
+   <mark>☄️Other Projects 🌿🐼</mark> 
 
- ---------------- Other Projects -----------------
  Our Team Will create <mark>modpacks & Mods & resources packs</mark> 
  For Minecraft java edition But <mark>only will work in our launcher 🐼🌿</mark>
 
- And More Like New <mark>Randers</mark>....
+ And More Like <mark>New Randers</mark>....
  
  <mark>Just wait we will create more projects for our launcher</mark>
 
  <mark>Discord</mark>
- https://discord.gg/BHaZDsnAP
+ <mark>https://discord.gg/BHaZDsnAP</mark>
