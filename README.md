@@ -48,4 +48,4 @@
  <mark>Just wait we will create more projects for our launcher</mark>
 
  <mark>Discord</mark>
- <mark>https://discord.gg/BHaZDsnAP</mark>
+ https://discord.gg/BHaZDsnAP
