@@ -1,6 +1,6 @@
 # 𝐿𝐸𝒪 𝐿𝒜𝒰𝒩𝒞𝐻𝐸𝑅 🐼🌿
 
-       🌿☄️𝒂𝑲𝑰𝑼𝑨𝒂 𝑻𝑬𝑨𝑴 🐾🐬
+                       🌿☄️𝒂𝑲𝑰𝑼𝑨𝒂 𝑻𝑬𝑨𝑴 🐾🐬
 
  <mark>🌿☄️ 𝑭𝑼𝑻𝑼𝑹𝑬𝑺 ☄️🌿</mark>
                    
@@ -37,4 +37,14 @@
                        
    
    <mark>𝑨𝑵𝑫 𝑴𝑶𝑹𝑬..🌿🐾</mark>
+
+ ---------------- Other Projects -----------------
+ Our Team Will create <mark>modpacks & Mods & resources packs</mark> 
+ For Minecraft java edition But <mark>only will work in our launcher 🐼🌿</mark>
+
+ And More Like New <mark>Randers</mark>....
  
+ <mark>Just wait we will create more projects for our launcher</mark>
+
+ <mark>Discord</mark>
+ https://discord.gg/BHaZDsnAP
