@@ -19,3 +19,4 @@ dependencyResolutionManagement {
 rootProject.name = "Leo"
 
 include(":LeoV1")
+include(":DATA")
